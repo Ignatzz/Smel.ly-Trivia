@@ -1,0 +1,10 @@
+a{
+    color: red;
+}
+a:hover{
+    color: red;
+}
+
+.btn{
+    margin: 4px;
+}
